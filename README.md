@@ -1,8 +1,8 @@
-Nome: Covid-19 Angola;
-Autor: Elio Fernandes "Fernando Mvuemba";
-portefólio URL: //http://www.mvfernando.rf.gd/;
-Version: 2.0.0;
-Ultima actualização: Março 22, 2020;
+Nome: Covid-19 Angola.
+Autor: Elio Fernandes "Fernando Mvuemba".
+portefólio URL: //http://www.mvfernando.rf.gd/.
+Version: 2.0.0.
+Ultima actualização: Março 22, 2020.
 
 E aí #Pessoal, tudo bem com você? Demorou mais finalmente teminei a versão oficial do site. 
 Acabei de criar e hospedar um SITE para servir de Centro de partinha de informação sobre o coronavírus em angola, em tempo real de acordo com os dados da OMS e MINSA (Ministério da saúde de Angala), actualizado com as informações e dicas das organizações de saúde e sobre como manteres a tua segurança e as das pessoas mais próximas.
@@ -23,24 +23,23 @@ O link do site está aqui: http://http://covid19-angola.rf.gd/ vocês podem test
 2- Sistema de SMS & EMAIL que vai permitir usuários cadastrarem-se, sempre que actualizar os dados , automaticamente, notifica no smarthone e Email de cada usuários.. Pra isso conto com a vossa ajuda.
 
 #COMO AJUDAR?
-
-Você pode me ajudar se juntando no nosso grupo do whatsaap ou no repositório do github, enviando dados dos casos Mundias e NAcionais [Angola].
+- Você pode me ajudar se juntando no nosso grupo do whatsaap ou no repositório do github, enviando dados dos casos Mundias e NAcionais [Angola].
 
 Link do repositório: https://github.com/mvfernando/covid-19-Angola/
 
-#MODELO DO FORMULÁRIO 
-*Casos coronavírus no Mundo* 
+#MODELO DO FORMULÁRIO:
+. *Casos coronavírus no Mundo*:
 --------------------------------------- 
-*Casos Confirmados:*  
-*Recuperados:* 
-*Mortes:*
-*Casos de hj*:
-*Mortes de hj*:
-*Recuperados_hj:* 
+- *Casos Confirmados:*  
+- *Recuperados:* 
+- *Mortes:*
+- *Casos de hj*:
+- *Mortes de hj*:
+- *Recuperados_hj:* 
 
-*Casos coronavírus em Angola* 
+. *Casos coronavírus em Angola*:
 --------------------------------------- 
-*Casos Confirmados:* 
-*Recuperados:* 
-*Mortes:*
+- *Casos Confirmados:* 
+- *Recuperados:* 
+- *Mortes:*
  
