@@ -1,9 +1,9 @@
 
-![Covid-19 Angola](http://covid19-angola.rf.gd/pags/assets/img/logo_footer.png)
+![Covid-19 Angola](http://covid19-angola.rf.gd/pags/assets/img/core-img/logo_footer.png)
 
 
 - Nome: Covid-19 Angola
-- Autor:* Elio Fernandes "Fernando Mvuemba"
+- Autor: Elio Fernandes "Fernando Mvuemba"
 - portefólio URL: //http://www.mvfernando.rf.gd
 - Version: 2.0.0
 - Ultima actualização: Março 22, 2020
@@ -18,14 +18,14 @@ O link do site está aqui: http://covid19-angola.rf.gd/ vocês podem testar as r
 
 # TECNO
 - Leaflet&Maptile: usei para criar e personalizar MAPA dos casos por localidade;
-[PHP; HTML; CSS; BOOTSTRAP; DATATABLE; JS; CHARTS]
+[- PHP; - HTML;- CSS;- BOOTSTRAP; - DATATABLE; - JS; -  CHARTS.JS]
 
 # ISSUES
 - Oquê voces acham de adicionar um #EspaçoBloger no site?
 
 # FEACTURES
-1- Ao decorrer do tempo pretendo adicionar um #EspaçoBloger no site, com sitema de visualizações e comentários apenas.
-2- Sistema de SMS & EMAIL que vai permitir usuários cadastrarem-se, sempre que actualizar os dados , automaticamente, notifica no smarthone e Email de cada usuários.. Pra isso conto com a vossa ajuda.
+- Ao decorrer do tempo pretendo adicionar um #EspaçoBloger no site, com sitema de visualizações e comentários apenas.
+- Sistema de SMS & EMAIL que vai permitir usuários cadastrarem-se, sempre que actualizar os dados , automaticamente, notifica no smarthone e Email de cada usuários.. Pra isso conto com a vossa ajuda.
 
 # COMO AJUDAR?
 - Você pode me ajudar se juntando no nosso grupo do whatsaap ou no repositório do github, enviando dados dos casos Mundias e NAcionais [Angola].
