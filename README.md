@@ -1,5 +1,5 @@
 
-![Covid-19 Angola](http://covid19-angola.rf.gd/pags/assets/img/core-img/logo_footer.png)
+![Covid-19 Angola](http://covid19-angola.rf.gd/pags/assets/img/bg-img/3.jpg)
 
 
 - Nome: Covid-19 Angola
